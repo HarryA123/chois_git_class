@@ -3,9 +3,8 @@
 this repo is to learn git.
 
 ##index
--installation
--how to start
--coontributing
+-Installation
+-Formula by mathJax
 
 ## installation
 
@@ -19,11 +18,11 @@ $ npm install
 $ npm start
 ```
 
-## formula
+## formula by mathJax
 
 $$ y=x+1 $$
 
-or, you can emphasize formula like $ y=x+1 $ .
+or, you can emphasize formula like $ y=x+1$ .
 
 
 
